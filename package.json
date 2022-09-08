@@ -1,7 +1,7 @@
 {
   "name": "idmx-11ty-sass-starter",
   "version": "1.0.0",
-  "description": "Featuring absolutely nothing beyond a base HTML5 file and the essential setup to watch and compile your Sass alongside 11ty.",
+  "description": "A starter index.html file and scss files for a simple setup to watch and compile your Sass using 11ty.",
   "main": "index.html",
   "scripts": {
     "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
